@@ -4,6 +4,8 @@ Created on Feb 14, 2018
 @author: Nick Govea
 '''
 
+# I am entering these comments bc I am tryng to push from my PC
+
 import codecs
 
 array1 = []
