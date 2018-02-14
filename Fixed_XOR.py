@@ -14,7 +14,7 @@ for c in "1c0111001f010100061a024b53535009181c":
     binary_value = bin(b)[2:].zfill(4)
     array1.append(binary_value)
     
-for n in "686974207468652062756c6c277320657979":
+for n in "686974207468652062756c6c277320657965":
     b = int(n, 16)
     binary_value = bin(b)[2:].zfill(4)
     array2.append(binary_value)
