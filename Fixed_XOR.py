@@ -50,4 +50,3 @@ string_array3 = "".join(array3)
                  
 print(string_array3) 
 print(hex(int(string_array3,2)))
-#print(hex(int(string_array3))
